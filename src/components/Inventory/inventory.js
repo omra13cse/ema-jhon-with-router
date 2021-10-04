@@ -3,7 +3,9 @@ import React from 'react';
 const inventory = () => {
     return (
         <div>
-            <h2>this is inventory</h2>
+            <h2>this is inventory page
+                
+            </h2>
         </div>
     );
 };
